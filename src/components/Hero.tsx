@@ -46,7 +46,7 @@ const Hero: React.FC = () => {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://drive.google.com/file/d/1W7u-kC8sm4heGrO_yvPpY3AnKm0GlQBX/view?usp=sharing"
+                href="https://drive.google.com/file/d/1C850FZXWqmXHfvuSf1Lo48niHil1E08O/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white font-medium rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-lg"
