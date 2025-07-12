@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
   const socialLinks = [
     {
       icon: Instagram,
-      href: 'https://www.instagram.com/riopray_793?igsh=ZThrZ2d1dTVkeXd5&utm_source=qr',
+      href: 'https://www.instagram.com/prg.ryo?igsh=ZThrZ2d1dTVkeXd5&utm_source=qr',
       label: 'Instagram',
       color: 'hover:text-pink-500'
     },
