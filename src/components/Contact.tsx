@@ -120,7 +120,7 @@ const Contact: React.FC = () => {
               <h4 className="font-bold text-dark-900 dark:text-white mb-4">Follow Me</h4>
               <div className="flex space-x-4">
                 <a
-                  href="https://www.instagram.com/riopray_793?igsh=ZThrZ2d1dTVkeXd5&utm_source=qr"
+                  href="https://www.instagram.com/prg.ryo?igsh=ZThrZ2d1dTVkeXd5&utm_source=qr"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 bg-pink-100 dark:bg-pink-900/30 rounded-lg flex items-center justify-center hover:bg-pink-200 dark:hover:bg-pink-800/50 transition-colors duration-300"
